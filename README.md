@@ -1,5 +1,11 @@
 # Excalidraw Go
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![React Logo](https://img.shields.io/badge/@excalidraw/excalidraw-0.18.0-3C78D8?style=flat-square)
+![React Logo](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&style=flat-square)
+![TypeScript Logo](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript&style=flat-square)
+![Vite Logo](https://img.shields.io/badge/Vite-7.0.4-646CFF?logo=vite&style=flat-square)
+
 Excalidraw Go 是一款基于 Tauri + React + TypeScript 框架开发的 Excalidraw 桌面版应用。
 
 ---
